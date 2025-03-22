@@ -1,4 +1,4 @@
-name: Model Training and API Deployment
+name: Model Training and API Deployment - AK
 
 on:
   push:
